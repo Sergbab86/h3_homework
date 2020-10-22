@@ -1,13 +1,13 @@
 
-# url_list = ['/catalog/ldjfn', 'dlfjhg', '/catalog/12334', '/catalog/9999']
+url_list = ['/catalog/ldjfn', 'dlfjhg', '/catalog/12334', '/catalog/9999']
 
 
 # 1 часть(не знаю как делать)
-# def catalog_finder(url_list):
-#     for _ in url_list:
-#         result_list = []
-#         result_list.insert('/catalog/')
-#         print(result_list)
+def catalog_finder(url_list):
+    for _ in url_list:
+        result_list = []
+        result_list.join.
+        print(result_list)
 
 
 # 2 часть
