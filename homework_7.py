@@ -1,5 +1,26 @@
 import os
 
+# def str_to_html(tags):
+#     def decorator(func):
+#         tag_base = {
+#             "italic": f"<i>%text%</i>",
+#             "bold": f"<b>%text%</b>",
+#             "underline": f"<u>%text%</u>",
+#         }
+#
+#         # def wrapper(text):
+#         # new_text =
+#         # return wrapper
+#     return decorator
+#
+#
+# @str_to_html(["italic", "bold"])
+# def get_text(text):
+#     return text
+#
+#
+# print(get_text())
+
 
 def log_reading(func):
     def wrapper(*args):
