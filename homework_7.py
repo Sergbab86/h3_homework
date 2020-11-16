@@ -1,19 +1,6 @@
 import os
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 def log_reading(func):
     def wrapper(*args):
         directory = '/Users/julia/Downloads'
